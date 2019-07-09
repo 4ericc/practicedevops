@@ -8,4 +8,8 @@
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>testtest,upd from github,push to github</COMMENT>
 </MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>new map step</COMMENT>
+</MAP>
 </FLOW>
