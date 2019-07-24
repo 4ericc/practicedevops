@@ -20,4 +20,8 @@
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>add from local</COMMENT>
 </MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>can i check out from github</COMMENT>
+</MAP>
 </FLOW>
